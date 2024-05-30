@@ -2,7 +2,7 @@
 ## Overview
 &nbsp;&nbsp;&nbsp;&nbsp;This project we will use a pre-trained Large Language Model (LLM) to perform text summarization.
 The summarization can be described as the creation of a shorter version of a document or an article that captures all the important information. After we trained the model, we will create user interface allow to
-interact with, we will build web application is built using Streamlit, providing an interactive and user-friendly interface for users to input text and receive concise summaries. It supports a variety of text types, including chats, news articles, and more.
+interact with, we will build [web application](https://text-summarization-jyfdhmbyhnvcvdkhgzxnh4.streamlit.app/) by using Streamlit, providing an interactive and user-friendly interface for users to input text and receive concise summaries. It supports a variety of text types, including chats, news articles, and more.
 
 ## Features
 &nbsp;&nbsp;&nbsp;&nbsp;Interactive Interface: User-friendly web application built with Streamlit.
